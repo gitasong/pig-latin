@@ -1,9 +1,5 @@
 Pig Latin Specs
 
-The program adds "way" to the end of single-letter words beginning with a vowel.
-Example Input: a
-Expected Output: away
-
 The program adds "way" to the end of multi-letter words beginning with a vowel.
 Example Input: apple
 Expected Output: appleway
