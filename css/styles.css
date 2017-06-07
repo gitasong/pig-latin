@@ -1,0 +1,22 @@
+body {
+  background-image: url("https://s-media-cache-ak0.pinimg.com/736x/f7/f7/35/f7f735add271a6e76e04394904b904ea.jpg");
+
+}
+.jumbotron {
+  background-color: #faafad;
+    text-align: center;
+}
+
+label {
+  color: #000;
+  font-size: 24px;
+}
+
+.btn{
+  background-color: #faafad;
+  border: 8px solid;
+  border-color: #fff;
+  border-radius: 8px;
+  padding: 8px;
+  font-weight: 700;
+}
